@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darriola1
 - 👀 I’m interested in learn programming in general 
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning react.js and node.js
 
 <!---
 darriola1/darriola1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
